@@ -1,0 +1,3 @@
+C:\Users\max\Downloads\asmbook-main\asmbook-main\Project32_VS2022\Project32_VS2022\Debug\Project.exe
+C:\Users\max\Documents\GitHubForks\CA-labs-2025\lab6\ShortPrograms\Ex1FourSymbolicConstants\Project32_VS2022\Debug\Project.exe
+D:\Lab7AC\Project32_VS2022\Debug\Project.exe
